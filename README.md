@@ -4,5 +4,5 @@ The DNS Manager All-in-One program allows users to manage their DNS settings in 
 You can download the latest version from [Here](https://github.com/Hidden-M/DNS-Manager/releases/latest)
 
 Let me know if you have any issues or feedback.
-Telegram: @Hidden_M2
-Discord: @Hidden_M
+Telegram: [@Hidden_M2](https://t.me/Hidden_M2)
+Discord: [@Hidden_M](https://discord.com/users/489449559584669700)
